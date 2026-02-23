@@ -1,0 +1,5 @@
+{
+  "name": "GitFolder Uploader",
+  "description": "Upload entire folders to your GitHub repository with ease.",
+  "requestFramePermissions": []
+}
